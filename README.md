@@ -1,4 +1,4 @@
-# Ransomware
+# Basic Ransomware POC
 This will simulate how a very basic ransomware could operate.
 
 In order to set it up you will need to install Pycryptdome.
